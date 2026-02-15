@@ -1,0 +1,12 @@
+org\example\controller\QuizController$1.class
+org\example\model\QuizModel.class
+org\example\view\QuizView$1.class
+org\example\entity\Question.class
+org\example\repository\QuestionRepository.class
+org\example\service\ResultService.class
+org\example\entity\Result.class
+org\example\App.class
+org\example\repository\ResultRepository.class
+org\example\view\QuizView.class
+org\example\controller\QuizController.class
+org\example\service\QuestionService.class
